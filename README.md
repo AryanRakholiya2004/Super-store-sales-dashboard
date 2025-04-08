@@ -4,6 +4,10 @@
 
 The primary goal of this dashboard is to provide a holistic view of Super Store’s operational performance, focusing on both profitability and overall sales. By visualizing various metrics in a user-friendly format, business stakeholders can quickly spot trends, identify areas of improvement, and prioritize actions that drive growth.
 
+## Dashboard preview
+- <a href="https://github.com/AryanRakholiya2004/Super-store-sales-dashboard/blob/main/Dashboard%20Previews/Profit_page.png">View Dashoard(Profit-page)</a>
+- <a href="https://github.com/AryanRakholiya2004/Super-store-sales-dashboard/blob/main/Dashboard%20Previews/Sales_page.png">View Dashoard(Sales-page)</a>
+
 # Project Description
 
 - **Data Source**: A fictional Super Store dataset (often found in sample retail data or extracted from sales software).  
